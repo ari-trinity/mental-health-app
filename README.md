@@ -1,3 +1,165 @@
+# Build a Better You
+# all-in-One Mental Health App
+
+> **Status:** Work in Progress
+
+**Repository:** [https://github.com/ari-trinity/mental-health-app.git](https://github.com/ari-trinity/mental-health-app.git)
+
+---
+
+## Table of Contents
+
+- [About](#about)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+
+---
+
+## About
+
+**Build a Better You** is a mental health application created with an ambition to help others by providing a variety of wellness support all in one place.
+
+This application has a combination of self-care tools, helpful resources, and a supportive community. Whether you're just getting started or looking for a little extra support, Build a Better You is for anyone and everyone – no matter what stage of the journey they're in.
+
+At the heart of the app is a safe community built around real connection – a space where users can share their wins and progress, talk about what they're dealing with, and know that they are never alone.
+
+---
+
+## Features
+
+- **AI Chatbox** – Release your thoughts and emotions with Ava, a kind and supportive AI companion.
+- **Community Support** – Connect with others in a safe and supportive space and know that you are never alone.
+- **Mental Health Resources** – A variety of articles, guides, and tools to help build the version of "you" that you want to be.
+- **User Login** – Get a more personalized experience with secure account creation and login.
+- **Daily Affirmations** – Generate uplifting, hopeful, and inspiring messages to start your day with real intention.
+- **Meditation & Mindfulness** – *Coming Soon!*
+
+---
+
+## Screenshots
+
+**Landing Page**
+![Landing Page](screenshots/screenshot-landing.png)
+
+**Sign Up**
+![Sign Up](screenshots/screenshot-signup.png)
+
+**Welcome Screen**
+![Welcome Screen](screenshots/screenshot-welcome.png)
+
+**Wellness Toolkit Dashboard**
+![Wellness Toolkit Dashboard](screenshots/screenshot-dashboard.png)
+
+**AI Wellness Companion (Chatbox)**
+![AI Wellness Companion](screenshots/screenshot-chatbox.png)
+
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Frontend | Svelte |
+| Styling | CSS / Glassmorphism |
+| Build Tool | Vite |
+| Deployment | GitHub Pages |
+
+---
+
+## Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/ari-trinity/mental-health-app.git
+   ```
+
+2. **Navigate into the project folder**
+   ```bash
+   cd mental-health-app
+   ```
+
+3. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## Usage
+
+1. Create an account or log in.
+2. Explore the **Affirmations** section to start your day with intention.
+3. Open up to **Ava** (our AI chatbox) and talk about what has been going on recently.
+4. Join the **Community** to connect with others.
+5. Check out the **Meditation & Mindfulness** section for a mental and physical reset.
+
+---
+
+## Contributing
+
+Contributions, ideas, and feedback are welcome! Feel free to open an issue or submit a pull request.
+
+---
+
+## Author
+
+**Ari Taylor** – Full-Stack Web Development Student at Atlas School
+
+- [LinkedIn: linkedin.com/in/ari-taylor-8b8382366](https://linkedin.com/in/ari-taylor-8b8382366)
+- Email: aritrin.business@gmail.com
+- GitHub: [@ari-trinity](https://github.com/ari-trinity)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
@@ -35,9 +197,3 @@ HMR state preservation comes with a number of gotchas! It has been disabled by d
 
 If you have state that's important to retain within a component, consider creating an external store which would not be replaced by HMR.
 
-```js
-// store.js
-// An extremely simple external store
-import { writable } from 'svelte/store'
-export default writable(0)
-```
