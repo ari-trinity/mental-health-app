@@ -1,6 +1,4 @@
 # Build a Better You
-# all-in-One Mental Health App
-
 > **Status:** Work in Progress
 
 **Repository:** [https://github.com/ari-trinity/mental-health-app.git](https://github.com/ari-trinity/mental-health-app.git)
