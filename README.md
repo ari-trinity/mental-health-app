@@ -113,7 +113,7 @@ Contributions, ideas, and feedback are welcome! Feel free to open an issue or su
 
 ## Author
 
-**Ari Taylor** – Full-Stack Web Development Student at Atlas School
+**Ari Taylor** | Full-Stack Web Development | Atlas
 
 - [LinkedIn: linkedin.com/in/ari-taylor-8b8382366](https://linkedin.com/in/ari-taylor-8b8382366)
 - Email: aritrin.business@gmail.com
